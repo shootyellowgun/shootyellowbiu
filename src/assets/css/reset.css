@@ -1,0 +1,13 @@
+body{margin:0; font:.24rem/1.2 "Microsoft YaHei"}
+h1,h2,h3,h4,h5,h6{margin:0;font-weight: normal; font-size:100%;}
+p,dl,dd{margin:0;}
+ul,ol{margin:0;padding:0;list-style:none;}
+a{text-decoration: none;color:#333;}
+img{vertical-align: bottom; border:none;}
+strong,b,th{font-weight: normal;}
+em,i{font-style: normal;}
+input{padding:0;border:none;margin:0;box-sizing:content-box; font-family: inherit;}
+textarea{ resize:none;}
+table{border-collapse: collapse;border-spacing: 0;}
+address{font-style: normal;}
+.clearfix::after{content: "";display: block;clear: both;font-size: 0;height: 0;line-height: 0;overflow: hidden;}

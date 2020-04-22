@@ -1,0 +1,29 @@
+.list {
+    text-align: center;
+}
+
+li {
+    overflow      : hidden;
+    position      : relative;
+    height        : 50px;
+    /* line-height: 50px; */
+}
+
+li>div {
+    position   : absolute;
+    height     : 50px;
+    line-height: 50px;
+}
+
+button {
+    position: absolute;
+}
+
+.one {
+    left      : -30%;
+    margin-top: 10px;
+}
+
+.two {
+    left: -30%;
+}

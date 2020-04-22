@@ -1,0 +1,69 @@
+{
+	"code": 200,
+	"success": true,
+	"msg": "获取成功",
+	"data": [{
+		"name": "母婴专区",
+		"list": [{
+			"id": "00013",
+			"name": "奶粉",
+			"thumbnail": "http://47.106.12.223:8569/static/img/class01.png"
+		}, {
+			"id": "00014",
+			"name": "宝宝洗护",
+			"thumbnail": "http://47.106.12.223:8569/static/img/class02.png"
+		}, {
+			"id": "00023",
+			"name": "玩具",
+			"thumbnail": "http://47.106.12.223:8569/static/img/class11.png"
+		}]
+	}, {
+		"name": "美妆护肤",
+		"list": [{
+			"id": "00015",
+			"name": "辅食",
+			"thumbnail": "http://47.106.12.223:8569/static/img/class03.png"
+		}, {
+			"id": "00016",
+			"name": "驱蚊防蚊",
+			"thumbnail": "http://47.106.12.223:8569/static/img/class04.png"
+		}, {
+			"id": "00024",
+			"name": "童车童床",
+			"thumbnail": "http://47.106.12.223:8569/static/img/class12.png"
+		}]
+	}, {
+		"name": "家具生活",
+		"list": [{
+			"id": "00017",
+			"name": "基础营养",
+			"thumbnail": "http://47.106.12.223:8569/static/img/class05.png"
+		}, {
+			"id": "00018",
+			"name": "孕产妇用户",
+			"thumbnail": "http://47.106.12.223:8569/static/img/class06.png"
+		}]
+	}, {
+		"name": "营养食品",
+		"list": [{
+			"id": "00019",
+			"name": "用品",
+			"thumbnail": "http://47.106.12.223:8569/static/img/class07.png"
+		}, {
+			"id": "00020",
+			"name": "尿裤湿巾",
+			"thumbnail": "http://47.106.12.223:8569/static/img/class08.png"
+		}]
+	}, {
+		"name": "全球直邮",
+		"list": [{
+			"id": "00021",
+			"name": "服饰",
+			"thumbnail": "http://47.106.12.223:8569/static/img/class09.png"
+		}, {
+			"id": "00022",
+			"name": "童装童鞋",
+			"thumbnail": "http://47.106.12.223:8569/static/img/class10.png"
+		}]
+	}]
+}

@@ -1,0 +1,8 @@
+.add {
+    /* text-align: center; */
+    padding      : 30px 100px;
+}
+
+.add input {
+    width: 200px !important;
+}

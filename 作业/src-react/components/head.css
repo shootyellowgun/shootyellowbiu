@@ -1,0 +1,10 @@
+.head {
+    text-align      : center;
+    background-color: gold;
+    line-height     : 30px;
+}
+
+.head a {
+    color          : black;
+    text-decoration: none;
+}
